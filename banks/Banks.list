@@ -1,5 +1,5 @@
 # NAME: Banks
+[General]
+skip-proxy = *.cebbank.com
 # unionpay
 DOMAIN-SUFFIX,95516.com
-# cebbank
-DOMAIN-SUFFIX,cebbank.com
