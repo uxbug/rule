@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wup.imtt.qq.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxqcloud.qq.com
-
-
 DOMAIN-KEYWORD,43.156.222.
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
@@ -29,3 +27,8 @@ IP-CIDR,101.32.133.209/32,no-resolve
 IP-CIDR,101.32.133.53/32,no-resolve
 IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,129.226.3.47/32,no-resolve
+
+# JD
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jddebug.com,REJECT
