@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,neteasegame.com
 DOMAIN-SUFFIX,neteasegame.net
 DOMAIN-SUFFIX,neteasegames.com
 DOMAIN-SUFFIX,neteasegames.net
+DOMAIN-SUFFIX,*datacenter.webapp.163.com
+DOMAIN-SUFFIX,*mkey.163.com
+
 
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
