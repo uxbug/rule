@@ -19,6 +19,13 @@ DOMAIN-SUFFIX,mi.gdt.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,talk.bz.getui.net
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,imageadv.ccb.com
+DOMAIN-SUFFIX,adv.ccb.com
+DOMAIN-SUFFIX,log.cmbchina.com
+DOMAIN-SUFFIX,loggw.alipay.com.cn
+DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 DOMAIN-KEYWORD,112wan
