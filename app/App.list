@@ -31,3 +31,11 @@ IP-CIDR,129.226.3.47/32,no-resolve
 # JD
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jd.com
+
+# DIDI
+DOMAIN-SUFFIX,diditaxi.com.cn
+DOMAIN-SUFFIX,xiaojukeji.com
+
+# Apple Map
+DOMAIN-SUFFIX,store.is.autonavi.com
+DOMAIN-SUFFIX,dispatcher.is.autonavi.com
