@@ -36,6 +36,20 @@ DOMAIN-SUFFIX,ads.mopub.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 DOMAIN-SUFFIX,log.trackingio.com
+DOMAIN-SUFFIX,pingma.qq.com
+DOMAIN-SUFFIX,ios.bugly.qq.com
+DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,applog.uc.cn
+DOMAIN-SUFFIX,l.gm.mob.com
+DOMAIN-SUFFIX,data.mob.com
+DOMAIN-SUFFIX,api.share.mob.com
+DOMAIN-SUFFIX,f.gm.mob.com
+DOMAIN-SUFFIX,api.applink.mob.com
+DOMAIN-SUFFIX,audid-api.taobao.com
+DOMAIN-SUFFIX,ad.12306.cn
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,*log*.myqcloud.com
 
 
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
