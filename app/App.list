@@ -40,6 +40,13 @@ DOMAIN-SUFFIX,diditaxi.com.cn
 DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,api.udache.com
 
+# YXBJ
+DOMAIN-SUFFIX,app.yinxiang.com
+
+# 10010
+DOMAIN-SUFFIX,10010.com
+
+
 # Apple Map
 DOMAIN-SUFFIX,store.is.autonavi.com
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com
