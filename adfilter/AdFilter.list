@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,*log*.myqcloud.com
-URL-REGEX,^https?:\/\/.*\.didistatic.com\/static\/ad_oss\/.*\.jpg
+URL-REGEX,^https?:\/\/.*\.didistatic.com\/static\/ad_oss\/.*
 
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 DOMAIN-KEYWORD,112wan
