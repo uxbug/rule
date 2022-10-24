@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wup.imtt.qq.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxqcloud.qq.com
+DOMAIN-SUFFIX,findermp.video.qq.com
 DOMAIN-KEYWORD,43.156.222.
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
@@ -46,6 +47,10 @@ DOMAIN-SUFFIX,app.yinxiang.com
 # 10010
 DOMAIN-SUFFIX,10010.com
 
+# OTHER
+
+DOMAIN-SUFFIX,newst.miwuqu.com
+DOMAIN-SUFFIX,apapia-history.manmanbuy.com
 
 # Apple Map
 DOMAIN-SUFFIX,store.is.autonavi.com
