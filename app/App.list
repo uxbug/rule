@@ -32,6 +32,10 @@ IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,183.131.48.0/20,no-resolve
 IP-CIDR,183.192.195.0/20,no-resolve
+IP-CIDR,101.89.15.0/20,no-resolve
+IP-CIDR,101.91.37.0/20,no-resolve
+IP-CIDR,180.163.210.0/20,no-resolve
+IP-CIDR,61.151.165.0/20,no-resolve
 
 IP-CIDR,112.65.193.0/20,no-resolve
 IP-CIDR,116.128.133.0/20,no-resolve
