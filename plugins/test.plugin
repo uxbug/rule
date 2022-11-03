@@ -2,7 +2,7 @@
 #!desc=2022.11.2
 #Surge需要取消跳过代理域名*.apple.com
 [Script]
-克拉壁纸 = type=http-response,pattern=^https?:\/\/p42-buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityPaperProCrack.js,script-update-interval=0,max-size=0
+克拉壁纸 = type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityPaperProCrack.js,script-update-interval=0,max-size=0
 
 [MITM]
-hostname = p42-buy.itunes.apple.com
+hostname = buy.itunes.apple.com
