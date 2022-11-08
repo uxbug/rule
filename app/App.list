@@ -42,6 +42,7 @@ IP-CIDR,116.128.133.0/20,no-resolve
 IP-CIDR,120.233.17.0/20,no-resolve
 
 IP-CIDR6,240e:e1:a802:b8::18,no-resolve
+IP-CIDR6,240e:e1:aa00:13::b0,no-resolve
 IP-CIDR6,240e:e1:a900:50::31,no-resolve
 IP-CIDR6,240e:e1:a802:1::32,no-resolve
 IP-CIDR6,2408:80f1:31:50::2e,no-resolve
