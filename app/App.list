@@ -49,6 +49,8 @@ IP-CIDR6,2408:80f1:31:50::2e,no-resolve
 IP-CIDR6,2408:80f1:21:1::32,no-resolve
 IP-CIDR6,2408:80f1:21:4013::bc,no-resolve
 
+# ALI
+IP-CIDR6,2400:b200:1005:3000::1c5/48,no-resolve
 # JD
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jd.com
