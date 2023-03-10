@@ -1,4 +1,6 @@
 # AD Filter
+# analysis block
+in.appcenter.ms
 # common
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ad.doubleclick.net
