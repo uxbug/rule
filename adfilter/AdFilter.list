@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,datacollector-drcn.dt.hicloud.com
 DOAMIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 # common
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ad.doubleclick.net
