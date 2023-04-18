@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,apps.razorsql.com
 
 # common
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN-SUFFIX,dig.bdurl.net
