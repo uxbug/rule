@@ -9,6 +9,14 @@ DOMAIN-SUFFIX,ynuf.alipay.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
 DOMAIN-SUFFIX,csmobiledata.alipay.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,conf-darwin.xycdn.com
+DOMAIN-SUFFIX,kit-device-log-1252363965.cos.ap-beijing.myqcloud.com
+DOMAIN-SUFFIX,xnour.xonap.com
+DOMAIN-SUFFIX,tqrbq.mpckv.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN,audid-api.taobao.com
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
@@ -21,7 +29,7 @@ DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,fourier.taobao.com
 DOMAIN-SUFFIX,iadsdk.apple.com
-# DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -32,14 +40,19 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,mi.gdt.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,talk.bz.getui.net
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,imageadv.ccb.com
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,log.cmbchina.com
 DOMAIN-SUFFIX,loggw.alipay.com.cn
+DOMAIN-SUFFIX,abtest.alibaba.com
+DOMAIN-SUFFIX,app.chat.xiaomi.net
+DOMAIN-SUFFIX,h-adashx.ut.taobao.com
 DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com
