@@ -47,7 +47,7 @@ IP-CIDR6,240e:e1:a802:1::32/48,no-resolve
 IP-CIDR6,2408:80f1:31:50::2e/48,no-resolve
 IP-CIDR6,2408:80f1:21:1::32/48,no-resolve
 IP-CIDR6,2408:80f1:21:4013::bc/48,no-resolve
-IP-CIRD6,2409:8c1e:8fd0:50::36/48,no-resolve
+IP-CIDR6,2409:8c1e:8fd0:50::36/48,no-resolve
 
 # ALI
 IP-CIDR6,2400:b200:1005:3000::1c5/48,no-resolve
