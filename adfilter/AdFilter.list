@@ -76,7 +76,7 @@ DOMAIN-SUFFIX,api.applink.mob.com
 DOMAIN-SUFFIX,audid-api.taobao.com
 DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,dualstack-logs.amap.com
-DOMAIN-SUFFIX,slackb.com
+#DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,*log*.myqcloud.com
 URL-REGEX,^https?:\/\/.*\.didistatic.com\/static\/ad_oss\/.*
 
