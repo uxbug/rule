@@ -22,6 +22,8 @@ DOMAIN,audid-api.taobao.com
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
 
+# Google Filter
+DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
 # common
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,gdt.qq.com
