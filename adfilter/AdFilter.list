@@ -18,9 +18,11 @@ DOMAIN-SUFFIX,tqrbq.mpckv.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,audid-api.taobao.com
+DOMAIN,api.mixpanel.com
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
+DOMAIN,adv.bandi.so
 
 # Google Filter
 DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
