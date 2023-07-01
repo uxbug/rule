@@ -24,6 +24,7 @@ DOMAIN,api.mixpanel.com
 DOMAIN-SUFFIX,apps.razorsql.com
 DOMAIN,adv.bandi.so
 DOMAIN-SUFFIX,bandi.so
+DOMAIN,secure.bandisoft.com
 
 # Google Filter
 DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
