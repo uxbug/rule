@@ -23,6 +23,7 @@ DOMAIN,api.mixpanel.com
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
 DOMAIN,adv.bandi.so
+DOMAIN-SUFFIX,bandi.so
 
 # Google Filter
 DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
