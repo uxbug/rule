@@ -3,7 +3,7 @@
 DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,datacollector-drcn.dt.hicloud.com
-DOMAIN-SUFFIX,baidu.com
+#DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,nektony.com
 DOMAIN-SUFFIX,ynuf.alipay.com
 DOMAIN-SUFFIX,ynuf.aliapp.org
