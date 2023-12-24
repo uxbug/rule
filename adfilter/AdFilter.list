@@ -19,6 +19,15 @@ DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN,audid-api.taobao.com
 DOMAIN,api.mixpanel.com
+DOMAIN-SUFFIX,dm.toutiao.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN,app-measurement.com
+DOMAIN-SUFFIX,log0-misc-alinc2.amemv.com
+DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,hzshudian.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,adashx.m.taobao.com
+DOMAIN-SUFFIX,ad.cyapi.cn
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
