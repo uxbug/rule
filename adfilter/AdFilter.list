@@ -99,9 +99,15 @@ DOMAIN-SUFFIX,*log*.myqcloud.com
 URL-REGEX,^https?:\/\/.*\.didistatic.com\/static\/ad_oss\/.*
 
 # mi
+DOMAIN,tracking.intl.miui.com
+DOMAIN,sdkconfig.ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,inf.xiaomi.com
 DOMAIN-SUFFIX,iot.mi.com
+DOMAIN-SUFFIX,intl.miui.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN,api.sec.miui.com
+DOMAIN,privacy.api.intl.miui.com
 
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 DOMAIN-KEYWORD,-logging.nextmedia.com
