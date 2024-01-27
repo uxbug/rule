@@ -110,6 +110,28 @@ DOMAIN-SUFFIX,intl.miui.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN,api.sec.miui.com
 DOMAIN,privacy.api.intl.miui.com
+DOMAIN,miav-cse.avlyun.com
+DOMAIN,a0.app.xiaomi.com
+DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,api.installer.xiaomi.com
+DOMAIN,tracking.miui.com
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN,tracker.ai.xiaomi.com
+DOMAIN-SUFFIX,sec.miui.com
+DOMAIN,miui-fxcse.avlyun.com
+DOMAIN,sdkconf.avlyun.com
+DOMAIN,miav-cse.avlyun.com
+DOMAIN,update.avlyun.sec.miui.com
+DOMAIN,logupdate.avlyun.sec.miui.com
+DOMAIN,auth.be.sec.miui.com
+DOMAIN,flash.sec.miui.com
+DOMAIN,api.hybrid.xiaomi.com
+DOMAIN,jupiter.sys.miui.com
+DOMAIN,metok.sys.miui.com
+DOMAIN,data.sec.miui.com
+IP-CIDR,111.201.1.252/32,no-resolve
+IP-CIDR,111.13.142.153/32,no-resolve
 
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 DOMAIN-KEYWORD,-logging.nextmedia.com
