@@ -133,6 +133,11 @@ DOMAIN,data.sec.miui.com
 IP-CIDR,111.201.1.252/32,no-resolve
 IP-CIDR,111.13.142.153/32,no-resolve
 
+DOMAIN,honeycomb.wps.cn
+DOMAIN,dw-online.ksosoft.com
+DOMAIN,shuc-android.ksord.com
+DOMAIN-SUFFIX,ksord.com
+
 # repo: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
