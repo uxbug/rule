@@ -108,6 +108,8 @@ DOMAIN-SUFFIX,inf.xiaomi.com
 DOMAIN-SUFFIX,iot.mi.com
 DOMAIN-SUFFIX,intl.miui.com
 DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,exp.xiaomi.com
+DOMAIN-SUFFIX,instaler.xiaomi.com
 DOMAIN,api.sec.miui.com
 DOMAIN,privacy.api.intl.miui.com
 DOMAIN,miav-cse.avlyun.com
@@ -131,8 +133,10 @@ DOMAIN,jupiter.sys.miui.com
 DOMAIN,metok.sys.miui.com
 DOMAIN,data.sec.miui.com
 DOMAIN,mpush-api.aliyun.com
+DOMAIN,newclient.map.baidu.com
 IP-CIDR,111.201.1.252/32,no-resolve
 IP-CIDR,111.13.142.153/32,no-resolve
+IP-CIDR,111.13.141.211/32,no-resolve
 
 DOMAIN,honeycomb.wps.cn
 DOMAIN,dw-online.ksosoft.com
