@@ -130,6 +130,7 @@ DOMAIN,api.hybrid.xiaomi.com
 DOMAIN,jupiter.sys.miui.com
 DOMAIN,metok.sys.miui.com
 DOMAIN,data.sec.miui.com
+DOMAIN,mpush-api.aliyun.com
 IP-CIDR,111.201.1.252/32,no-resolve
 IP-CIDR,111.13.142.153/32,no-resolve
 
