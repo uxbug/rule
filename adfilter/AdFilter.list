@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,hzshudian.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,ad.cyapi.cn
-DOMAIN,safe.mt2.cn
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
@@ -36,6 +35,29 @@ DOMAIN-SUFFIX,bandi.so
 DOMAIN,adv.bandi.so
 DOMAIN,secure.bandisoft.com
 DOMAIN,logitech.uservoice.com
+
+DOMAIN,safe.mt2.cn
+DOMAIN,sv1.mt2.cn
+DOMAIN,sv2.mt2.cn
+DOMAIN,sv3.mt2.cn
+DOMAIN,sv4.mt2.cn
+DOMAIN,sv5.mt2.cn
+DOMAIN,sv6.mt2.cn
+DOMAIN,sv7.mt2.cn
+DOMAIN,sv8.mt2.cn
+DOMAIN,sv9.mt2.cn
+DOMAIN,sv10.mt2.cn
+DOMAIN,sv1.binmt.cc
+DOMAIN,sv2.binmt.cc
+DOMAIN,sv3.binmt.cc
+DOMAIN,sv4.binmt.cc
+DOMAIN,sv5.binmt.cc
+DOMAIN,sv6.binmt.cc
+DOMAIN,sv7.binmt.cc
+DOMAIN,sv8.binmt.cc
+DOMAIN,sv9.binmt.cc
+DOMAIN,sv10.binmt.cc
+DOMAIN-SUFFIX,binmt.cc
 
 
 # Google Filter
