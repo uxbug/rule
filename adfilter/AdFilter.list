@@ -123,6 +123,10 @@ DOMAIN-SUFFIX,*log*.myqcloud.com
 URL-REGEX,^https?:\/\/.*\.didistatic.com\/static\/ad_oss\/.*
 
 # mi
+DOMAIN,verify.sec.xiaomi.com
+DOMAIN,static-verify.sec.xiaomi.com
+DOMAIN,font.sec.miui.com
+DOMAIN,i.mi.com
 DOMAIN-SUFFIX,micloud.xiaomi.net
 DOMAIN,tracking.intl.miui.com
 DOMAIN,mcc.intl.inf.miui.com
