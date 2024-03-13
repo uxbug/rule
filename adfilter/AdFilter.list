@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,hzshudian.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,ad.cyapi.cn
+DOMAIN,sensors.xiaoeknow.com
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
