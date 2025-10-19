@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,adashx.m.taobao.com
 DOMAIN-SUFFIX,ad.cyapi.cn
 DOMAIN,sensors.xiaoeknow.com
 DOMAIN,visit.cnblogs.com
+DOMAIN-SUFFIX,jpush-ipv6.cn
 
 # Soft Filter
 DOMAIN-SUFFIX,apps.razorsql.com
